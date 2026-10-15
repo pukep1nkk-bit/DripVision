@@ -56,3 +56,5 @@ backend/functions/.firebase/
 
 # CI / generated coverage
 coverage/
+
+assets/.env
